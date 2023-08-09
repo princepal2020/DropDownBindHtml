@@ -5,8 +5,7 @@ html dropdown
 html code --------------------------
 
 <ul>
-    <li><a class="active" href="Default.aspx">Home</a></li>
-    <li><a href="About.aspx">About</a></li>
+  
     <li class="dropdown">
         <a href="#" id="ddlItems" runat="server">
             <span>Services</span> <i class="bi bi-chevron-down"></i>
